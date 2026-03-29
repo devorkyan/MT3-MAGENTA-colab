@@ -10,4 +10,4 @@
 
 ## 🎹 Main project (piano transcription)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/DenisPyankov/MT3-MAGENTA-collab/blob/main/colab/Music_Transcription_with_Transformers.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DenisPyankov/MT3-MAGENTA-collab/blob/main/colab/Music_Transcription_with_Transformers.ipynb)
